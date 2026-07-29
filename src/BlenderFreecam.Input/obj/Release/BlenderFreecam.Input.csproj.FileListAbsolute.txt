@@ -1,0 +1,6 @@
+D:\Manhunt 2\Workspace\BlenderFreecam\src\BlenderFreecam.Input\bin\Release\BlenderFreecam.Input.dll
+D:\Manhunt 2\Workspace\BlenderFreecam\src\BlenderFreecam.Input\bin\Release\BlenderFreecam.Input.pdb
+D:\Manhunt 2\Workspace\BlenderFreecam\src\BlenderFreecam.Input\obj\Release\BlenderFreecam.Input.csproj.AssemblyReference.cache
+D:\Manhunt 2\Workspace\BlenderFreecam\src\BlenderFreecam.Input\obj\Release\BlenderFreecam.Input.csproj.CoreCompileInputs.cache
+D:\Manhunt 2\Workspace\BlenderFreecam\src\BlenderFreecam.Input\obj\Release\BlenderFreecam.Input.dll
+D:\Manhunt 2\Workspace\BlenderFreecam\src\BlenderFreecam.Input\obj\Release\BlenderFreecam.Input.pdb
