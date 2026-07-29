@@ -7,11 +7,11 @@ mouse input.
 
 ## Install
 
-Use the prebuilt package in `dist`:
+Download this Repo as zip:
 
-1. Extract `BlenderFreecam_3dsMax2025.zip`.
+1. Extract `3dsmax.Freecam-master.zip`.
 2. In 3ds Max 2025, choose **Scripting > Run Script**.
-3. Run `Install_BlenderFreecam.ms` from the extracted `BlenderFreecam` folder.
+3. Run `Install_BlenderFreecam.ms` from the extracted folder.
 4. Open **Customize > Customize User Interface**.
 5. In the **Blender Freecam** category, drag **Freecam** to a toolbar and/or
    assign it a keyboard shortcut.
